@@ -8,6 +8,7 @@ public class Bean {
 
     private String time;
     private int pos;
+    private int pos1;
 
     public String getTime() {
         return time;
