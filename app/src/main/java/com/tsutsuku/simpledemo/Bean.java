@@ -5,4 +5,23 @@ package com.tsutsuku.simpledemo;
  */
 
 public class Bean {
+
+    private String time;
+    private int pos;
+
+    public String getTime() {
+        return time;
+    }
+
+    public void setTime(String time) {
+        this.time = time;
+    }
+
+    public int getPos() {
+        return pos;
+    }
+
+    public void setPos(int pos) {
+        this.pos = pos;
+    }
 }
